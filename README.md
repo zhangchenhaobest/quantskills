@@ -1,3 +1,29 @@
+# quantskills
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+An open-source quant skill and agent ecosystem for AI-driven research, backtesting, risk monitoring and trading automation.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+QuantSkills 全景导航：面向 AI Agent 的开源量化 Skill 与 Agent 生态，覆盖数据、因子研究、回测验证、风险监控与交易自动化。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # 🧭 QuantSkills
 
 **简体中文** | [English](README.en.md) · [浏览网站](https://www.quantskills.ai/)
